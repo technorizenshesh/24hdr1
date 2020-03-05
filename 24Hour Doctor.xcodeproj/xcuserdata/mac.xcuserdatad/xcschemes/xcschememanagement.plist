@@ -7,7 +7,25 @@
 		<key>24Hour Doctor.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>13</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>04262EE42283F48200738D10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04262EF82283F48400738D10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>04262F032283F48400738D10</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
